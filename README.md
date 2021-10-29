@@ -35,13 +35,9 @@
 ## Discover my habits
 
 <!-- If you're using "main" as default branch -->
-<img align="left" width="48%" alt="metrics" src="https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/blob/main/metrics.svg" />
-<img width="48%" alt="metrics" src="https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/blob/main/metrics.plugin.habits.charts.svg" />
+<img align="left" width="48%" alt="metrics" src="https://github.com/CreatibOfficiel/CreatibOfficiel/blob/main/metrics.svg" />
+<img width="48%" alt="metrics" src="https://github.com/CreatibOfficiel/CreatibOfficiel/blob/main/metrics.plugin.habits.charts.svg" />
 
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## Acknowledgments
