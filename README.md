@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/daa4d757cd49de6f5287dad7e81e38b9a09ff5bb/metrics.svg)
-![Metrics](https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/7052b2e70cfd6eec7a158f91dad1a4b1b8f055a8/metrics.plugin.habits.charts.svg)
+<img align="left" width="48%" alt="metrics" src="https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/5e5a61aab964cd0dfe6ba0eb8a77831415bf9923/metrics.svg"/>
+<img width="48%" alt="metrics" src="https://raw.githubusercontent.com/CreatibOfficiel/CreatibOfficiel/7052b2e70cfd6eec7a158f91dad1a4b1b8f055a8/metrics.plugin.habits.charts.svg"/>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
