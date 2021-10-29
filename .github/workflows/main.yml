@@ -26,12 +26,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: dockerfile, makefile
           plugin_languages_skipped: E428, That-level-again-unity
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          plugin_discussions: yes
           config_order: base.header, isocalendar, languages
           output_action: pull-request
 
