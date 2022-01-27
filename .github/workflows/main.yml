@@ -27,7 +27,6 @@ jobs:
           plugin_languages_ignored: dockerfile, makefile
           plugin_languages_skipped: E428, That-level-again-unity
           config_order: base.header, isocalendar, languages
-          output_action: pull-request
 
       - name: 💡 Coding habits (charts)
         if: ${{ success() || failure() }}
@@ -45,6 +44,5 @@ jobs:
           plugin_habits_charts: yes
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
-          output_action: pull-request
           delay: 120
           
