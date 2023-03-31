@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1091,14 +1091,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="140.5666349577823" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="140.5666349577823" y="0" width="75.92755221443062" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="216.49418717221292" y="0" width="64.68903686368266" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="281.18322403589553" y="0" width="48.71301214758942" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="329.896236183485" y="0" width="39.490861948496914" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="369.38709813198193" y="0" width="36.70427396476105" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="406.091372096743" y="0" width="27.055771157262036" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="433.147143254005" y="0" width="26.852856745995" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.9365407173658" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="137.9365407173658" y="0" width="74.50689774811241" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="212.4434384654782" y="0" width="64.73074826110661" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="277.1741867265848" y="0" width="47.80155963454326" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="324.9757463611281" y="0" width="43.372329704098995" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="368.3480760652271" y="0" width="38.75196193434335" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="407.1000379995704" y="0" width="26.549539874766634" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="433.649577874337" y="0" width="26.350422125662927" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1111,7 +1111,7 @@
                             </div>
                             <small>
                                 <div>363 kB</div>
-                                <div>30.56%</div>
+                                <div>29.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1122,20 +1122,20 @@
                                 PHP
                             </div>
                             <small>
-                                <div>167 kB</div>
-                                <div>14.06%</div>
+                                <div>170 kB</div>
+                                <div>14.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#c1d026" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Swift
+                                Twig
                             </div>
                             <small>
-                                <div>101 kB</div>
-                                <div>8.58%</div>
+                                <div>114 kB</div>
+                                <div>9.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1147,7 +1147,7 @@
                             </div>
                             <small>
                                 <div>69.8 kB</div>
-                                <div>5.88%</div>
+                                <div>5.77%</div>
                             </small>
                         </div>
                     </section>
@@ -1161,7 +1161,7 @@
                             </div>
                             <small>
                                 <div>196 kB</div>
-                                <div>16.51%</div>
+                                <div>16.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1173,19 +1173,19 @@
                             </div>
                             <small>
                                 <div>125 kB</div>
-                                <div>10.59%</div>
+                                <div>10.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#c1d026" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Twig
+                                Swift
                             </div>
                             <small>
-                                <div>94.7 kB</div>
-                                <div>7.98%</div>
+                                <div>101 kB</div>
+                                <div>8.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1197,7 +1197,7 @@
                             </div>
                             <small>
                                 <div>69.3 kB</div>
-                                <div>5.84%</div>
+                                <div>5.73%</div>
                             </small>
                         </div>
                     </section>
