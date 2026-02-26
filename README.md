@@ -3,7 +3,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=CreatibOfficiel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CreatibOfficiel)
 
 <p>Welcome to my page! </br>
-  <b>I'm Thibaud</b>, student entrepreneur in computer science from 🇫🇷 <b>Ardèche, France</b>. </p>
+  <b>I'm Thibaud</b>, entrepreneur in computer science from 🇫🇷 <b>Ardèche, France</b>. </p>
 
 ## Various techs I use
 
